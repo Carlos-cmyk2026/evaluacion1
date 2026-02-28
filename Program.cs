@@ -21,7 +21,7 @@ namespace evaluacion1
             {
                 Console.WriteLine("Ingrese nombre del libro:");
                 string libro = Console.ReadLine();
-                Console.WriteLine("Libro registra: " + libro);
+                Console.WriteLine("Libro registrado: " + libro);
             }
             else
             {
